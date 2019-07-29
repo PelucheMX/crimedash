@@ -36,57 +36,7 @@
         <div class="form-group">
             <select class="form-control dropdown" id="props" onchange="showResults(this)">
                 <option value="">Select Property</option>
-                <option value="6X">Arthur Capper Senior</option>
-                <option value="5I">Barry Farm</option>
-                <option value="5O">Benning Terrace</option>
-                <option value="5S">Carroll Apartments</option>
-                <option value="7O">Carrollsburg Dwellings</option>
-                <option value="6F">Claridge Towers</option>
-                <option value="6N">Colorado</option>
-                <option value="6M">Columbia Road</option>
-                <option value="6D">Edgewood</option>
-                <option value="5X">Elvans Road</option>
-                <option value="5U">Fort Dupont Addition</option>
-                <option value="5H">Fort Dupont Dwellings</option>
-                <option value="6H">Fort Lincoln</option>
-                <option value="6R">Frontiers</option>
-                <option value="68">Garfield Terrace Family</option>
-                <option value="68S">Garfield Terrace Senior</option>
-                <option value="67">Greenleaf Additions</option>
-                <option value="6A">Greenleaf Extension</option>
-                <option value="61">Greenleaf Gardens</option>
-                <option value="62">Greenleaf Senior</option>
-                <option value="6J">Harvard Towers</option>
-                <option value="5L">Highland Addition</option>
-                <option value="5T">Highland Dwellings</option>
-                <option value="5F">Hopkins Apartments</option>
-                <option value="6G">Horizon House</option>
-                <option value="6L">James Apartments</option>
-                <option value="5Z">James Creek</option>
-                <option value="6I">Judiciary</option>
-                <option value="60">Kelly Miller</option>
-                <option value="5N">Kenilworth Courts</option>
-                <option value="5R">Kentucky Courts</option>
-                <option value="5W">Knox Hill</option>
-                <option value="6B">Langston Additions</option>
-                <option value="64">Langston Terrace</option>
-                <option value="69">Ledroit Apartments</option>
-                <option value="5J">Lincoln Heights</option>
-                <option value="6O">Lincoln Road</option>
-                <option value="6C">Montana Terrace</option>
-                <option value="66">Park Morton</option>
-                <option value="5K">Parkside Additions</option>
-                <option value="5G">Potomac Gardens Family</option>
-                <option value="5GS">Potomac Gardens Senior</option>
-                <option value="6K">Regency House</option>
-                <option value="5M">Richardson Dwellings</option>
-                <option value="65">Sibley Plaza</option>
-                <option value="5P">Stoddert Terrace</option>
-                <option value="6E">Sursum Corda</option>
-                <option value="63">Syphax Gardens</option>
-                <option value="5Y">The Villager</option>
-                <option value="5V">Wade Apartments</option>
-                <option value="5Q">Woodland Terrace</option>
+            // had to take out the actual locations as was not srue if allowed to share that content. 
                 </select>
               </div>
         <div id="results" class="m-3 text-center">
